@@ -2,12 +2,12 @@
 
 ### Arduino HID mouse
 ## ENG
-## This repository contains HID mouse emulation for the [Sunone Aimbot](https://github.com/SunOner/sunone_aimbot).
+## This repository contains HID mouse emulation for the MULTIAIM - IA.
 - To get started, acquire an `Arduino Leonardo R3 ATMEGA32U4`, `ARDUINO USB HOST SHIELD`, and a soldering iron if you don't have one.
 <br></br>
 - Download and install the [Arduino IDE](https://www.arduino.cc/en/software).
 <br></br>
-- Download and unpack the repository archive to `C:\Users\your_username\Documents\Arduino\HID_Arduino` or if you have logitech G-series mouse download [this](https://github.com/SunOner/usb-host-shield-mouse_for_ai_aimbot) and unpack the repository archive to `C:\Users\your_username\Documents\Arduino\hidmousereport`
+- Download and unpack the zip archive to `C:\Users\your_username\Documents\Arduino\HID_Arduino` or if you have logitech G-series mouse download [this](https://github.com/SunOner/usb-host-shield-mouse_for_ai_aimbot) and unpack the repository archive to `C:\Users\your_username\Documents\Arduino\hidmousereport`
 <br></br>
 - Download and unpack [this](https://github.com/felis/USB_Host_Shield_2.0/releases/tag/1.6.2) archive into `C:\Users\your_username\Documents\Arduino\libraries\USB_Host_Shield_2.0-1.6.2`
 <br></br>
